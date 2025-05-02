@@ -1,3 +1,3 @@
-const hi=()=>{
-    
+const deepak=()={
+    console.log("ahsfyadtf")
 }
